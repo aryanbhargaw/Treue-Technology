@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_short_plans">ViewShortPlansActivity</string>
+    <string name="title_activity_view_long_plans">ViewLongPlansActivity</string>
+    <string name="title_activity_view_trash">ViewTrashActivity</string>
+    <string name="title_activity_view_short_plan_detail">ViewShortPlanDetail</string>
+    <string name="title_activity_view_long_plan_detail">ViewLongPlanDetail</string>
+    <string name="title_activity_add_short_plan">AddShortPlanActivity</string>
+    <string name="title_activity_add_long_plan">AddLongPlanActivity</string>
+    <string name="title_activity_add_short_of_long_plan">AddShortOfLongPlanActivity</string>
+
+
+    <!--weatherforecast-->
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="later">Later</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="search_title">Search for city</string>
+    <string name="downloading_data">Downloading your data ...</string>
+    <string name="getting_location">Getting your location ...</string>
+    <string name="error_dateFormat">DATE FORMAT ERROR</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="msg_err_parsing_json">Error parsing JSON.</string>
+    <string name="city_not_found">City not found.</string>
+    <string name="msg_connection_not_available">Connection not available.</string>
+    <string name="msg_city_not_found">Specified city is not found.</string>
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+    <string name="temperature">Temperature</string>
+
+    <!--Help-->
+    <string name="ques1">How to create new long term plan?</string>
+    <string name="ques2">How to add a short term plan?</string>
+    <string name="ques3">Do I have to pay for any extend function?</string>
+    <string name="answer10">On the main screen, click Menu </string>
+    <string name="answer11">Click "Long term Plans" </string>
+    <string name="answer12">On Long Plans screen, click </string>
+    <string name="answer13">Type your long plan name and click add.</string>
+    <string name="answer20">Click "Short term Plans" </string>
+    <string name="answer21">On Short Plans screen, click </string>
+    <string name="answer22">Input necessary fields and select long term plan.</string>
+    <string name="answer23">Click on Create button </string>
+    <string name="answer30">The answer is no. You do not have to pay any fee for
+        any function in this app. It is completely free. Enjoy! </string>
+
+</resources>

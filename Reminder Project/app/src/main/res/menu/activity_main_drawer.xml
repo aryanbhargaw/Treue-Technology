@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/shortPlans"
+            android:icon="@drawable/shortnote"
+            android:title="Short term plans" />
+        <item
+            android:id="@+id/longPlans"
+            android:icon="@drawable/longnote"
+            android:title="Long term plans" />
+
+        <item
+            android:id="@+id/trash"
+            android:icon="@drawable/trash"
+            android:title="Recycle Bin" />
+    </group>
+
+                <item
+                android:id="@+id/help"
+                android:icon="@drawable/help"
+                android:title="Help" />
+        </menu>
+
+
+
